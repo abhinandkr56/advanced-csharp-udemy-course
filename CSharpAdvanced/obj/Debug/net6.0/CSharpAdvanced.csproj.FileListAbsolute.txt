@@ -1,0 +1,15 @@
+/home/abhinandhukr/learning/CSharpAdvanced/CSharpAdvanced/bin/Debug/net6.0/CSharpAdvanced
+/home/abhinandhukr/learning/CSharpAdvanced/CSharpAdvanced/bin/Debug/net6.0/CSharpAdvanced.deps.json
+/home/abhinandhukr/learning/CSharpAdvanced/CSharpAdvanced/bin/Debug/net6.0/CSharpAdvanced.runtimeconfig.json
+/home/abhinandhukr/learning/CSharpAdvanced/CSharpAdvanced/bin/Debug/net6.0/CSharpAdvanced.dll
+/home/abhinandhukr/learning/CSharpAdvanced/CSharpAdvanced/bin/Debug/net6.0/CSharpAdvanced.pdb
+/home/abhinandhukr/learning/CSharpAdvanced/CSharpAdvanced/obj/Debug/net6.0/CSharpAdvanced.csproj.AssemblyReference.cache
+/home/abhinandhukr/learning/CSharpAdvanced/CSharpAdvanced/obj/Debug/net6.0/CSharpAdvanced.GeneratedMSBuildEditorConfig.editorconfig
+/home/abhinandhukr/learning/CSharpAdvanced/CSharpAdvanced/obj/Debug/net6.0/CSharpAdvanced.AssemblyInfoInputs.cache
+/home/abhinandhukr/learning/CSharpAdvanced/CSharpAdvanced/obj/Debug/net6.0/CSharpAdvanced.AssemblyInfo.cs
+/home/abhinandhukr/learning/CSharpAdvanced/CSharpAdvanced/obj/Debug/net6.0/CSharpAdvanced.csproj.CoreCompileInputs.cache
+/home/abhinandhukr/learning/CSharpAdvanced/CSharpAdvanced/obj/Debug/net6.0/CSharpAdvanced.dll
+/home/abhinandhukr/learning/CSharpAdvanced/CSharpAdvanced/obj/Debug/net6.0/refint/CSharpAdvanced.dll
+/home/abhinandhukr/learning/CSharpAdvanced/CSharpAdvanced/obj/Debug/net6.0/CSharpAdvanced.pdb
+/home/abhinandhukr/learning/CSharpAdvanced/CSharpAdvanced/obj/Debug/net6.0/CSharpAdvanced.genruntimeconfig.cache
+/home/abhinandhukr/learning/CSharpAdvanced/CSharpAdvanced/obj/Debug/net6.0/ref/CSharpAdvanced.dll
